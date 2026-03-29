@@ -1,9 +1,2 @@
-"""
-playlists.py
-------------
-Implement playlist classes for organizing tracks.
-
-Classes to implement:
-  - Playlist
-    - CollaborativePlaylist
-"""
+from streaming.models.playlist import Playlist
+from streaming.models.collaborative_playlist import CollaborativePlaylist
